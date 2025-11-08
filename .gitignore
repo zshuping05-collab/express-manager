@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Database (optional - 如果你想每次都从空数据库开始，取消下面的注释)
+# express_manager.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
